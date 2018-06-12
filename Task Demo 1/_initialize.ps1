@@ -1,0 +1,3 @@
+. "C:\kenaflow\kenaflow.exe" --createstatelist --createconfiglist --createdatalist --createhistorylist --createerrorlist --addstatefield --createpermissionsets
+# . "C:\kenaflow\kenaflow.exe" --hidestatelist --hideconfiglist --hidedatalist --hidehistorylist --hidetasklist --hideerrorlist 
+# . "C:\kenaflow\kenaflow.exe" --showstatelist --showconfiglist --showdatalist --showhistorylist --showtasklist --showerrorlist
